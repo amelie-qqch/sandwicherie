@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Jambon beurre",
+    "price": 3.50,
+    "ingredients": [
+      {
+        "name": "pain",
+        "quantity": 1,
+        "unit": "Unity"
+      },
+      {
+        "name": "tranche de jambon",
+        "quantity": 1,
+        "unit": "Unity"
+      },
+      {
+        "name": "beurre",
+        "quantity": 10,
+        "unit": "Gram"
+      }
+    ]
+  },
+  {
+    "name": "Poulet crudités",
+    "price": 5,
+    "ingredients": [
+      {
+        "name": "pain",
+        "quantity": 1,
+        "unit": "Unity"
+      },
+      {
+        "name": "oeuf",
+        "quantity": 1,
+        "unit": "Unity"
+      },
+      {
+        "name": "tomate",
+        "quantity": 0.5,
+        "unit": "Unity"
+      },
+      {
+        "name": "tranche de poulet",
+        "quantity": 1,
+        "unit": "Unity"
+      },
+      {
+        "name": "mayonnaise",
+        "quantity": 10,
+        "unit": "Gram"
+      },
+      {
+        "name": "salade",
+        "quantity": 10,
+        "unit": "Gram"
+      }
+    ]
+  },
+  {
+    "name": "Dieppois",
+    "price": 4.50,
+    "ingredients": [
+      {
+        "name": "pain",
+        "quantity": 1,
+        "unit": "Unity"
+      },
+      {
+        "name": "thon",
+        "quantity": 50,
+        "unit": "Gram"
+      },
+      {
+        "name": "tomate",
+        "quantity": 0.5,
+        "unit": "Unity"
+      },
+      {
+        "name": "mayonnaise",
+        "quantity": 10,
+        "unit": "Gram"
+      },
+      {
+        "name": "salade",
+        "quantity": 10,
+        "unit": "Gram"
+      }
+    ]
+  }
+]
