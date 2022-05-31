@@ -1,6 +1,0 @@
-/home/ame/RiderProjects/sandwicherie/sandwicherie/bin/Debug/sandwicherie.exe
-/home/ame/RiderProjects/sandwicherie/sandwicherie/bin/Debug/sandwicherie.pdb
-/home/ame/RiderProjects/sandwicherie/sandwicherie/obj/Debug/sandwicherie.csprojAssemblyReference.cache
-/home/ame/RiderProjects/sandwicherie/sandwicherie/obj/Debug/sandwicherie.csproj.CoreCompileInputs.cache
-/home/ame/RiderProjects/sandwicherie/sandwicherie/obj/Debug/sandwicherie.exe
-/home/ame/RiderProjects/sandwicherie/sandwicherie/obj/Debug/sandwicherie.pdb
