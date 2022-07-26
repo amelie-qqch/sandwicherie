@@ -42,10 +42,12 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="core\BillingService.cs" />
-        <Compile Include="core\CardService.cs" />
-        <Compile Include="core\CommandParser.cs" />
+        <Compile Include="core\interfaces\Parser.cs" />
+        <Compile Include="core\services\BillingService.cs" />
+        <Compile Include="core\services\CardService.cs" />
+        <Compile Include="core\services\CommandLineParser.cs" />
         <Compile Include="models\Ingredient.cs" />
+        <Compile Include="models\ItemCommand.cs" />
         <Compile Include="models\ParsedCommand.cs" />
         <Compile Include="models\Sandwich.cs" />
         <Compile Include="models\Unit.cs" />

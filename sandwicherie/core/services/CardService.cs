@@ -4,7 +4,7 @@ using System.IO;
 using sandwicherie.models;
 using Newtonsoft.Json;
 
-namespace sandwicherie.core
+namespace sandwicherie.services.core
 {
     public class CardService
     {
@@ -20,12 +20,7 @@ namespace sandwicherie.core
 
         public static CardService GetInstance()
         {
-            if (null == CardService._instance)
-            {
-                CardService._instance = new CardService();
-            }
-
-            return CardService._instance;
+            return CardService._instance ?? (CardService._instance = new CardService());
         }
 
         public Sandwich GetSandwichByName(string name)

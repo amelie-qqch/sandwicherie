@@ -8,7 +8,6 @@ namespace sandwicherie.models
         public readonly float Price;
         public readonly List<Ingredient> Ingredients;
         
-
         public Sandwich(
             string name, 
             float price, 
@@ -19,5 +18,11 @@ namespace sandwicherie.models
             Price = price;
             Ingredients = ingredients;
         }
+
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+
     }
 }
